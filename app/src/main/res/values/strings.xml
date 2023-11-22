@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Canciones</string>
+
+    <string name="dia_1">Día 1</string>
+    <string name="cancion_1">Smells Like Teen Spirit</string>
+    <string name="descripcion_1">Nirvana (1991)</string>
+
+    <string name="dia_2">Día 2</string>
+    <string name="cancion_2">Zombie</string>
+    <string name="descripcion_2">The Cranberries (1994)</string>
+
+    <string name="dia_3">Día 3</string>
+    <string name="cancion_3">Everybody</string>
+    <string name="descripcion_3">Backstreet Boys (1997)</string>
+
+    <string name="dia_4">Día 4</string>
+    <string name="cancion_4">What is Love</string>
+    <string name="descripcion_4">Haddaway (1993)</string>
+
+    <string name="dia_5">Día 5</string>
+    <string name="cancion_5">Baby one more time</string>
+    <string name="descripcion_5">Britney Spears (1998)</string>
+
+    <string name="dia_6">Día 6</string>
+    <string name="cancion_6">Losing My Religion</string>
+    <string name="descripcion_6">R.E.M (1991)</string>
+
+    <string name="dia_7">Día 7</string>
+    <string name="cancion_7">November Rain</string>
+    <string name="descripcion_7">Guns N´ Roses (1991)</string>
+
+    <string name="dia_8">Día 8</string>
+    <string name="cancion_8">Believe</string>
+    <string name="descripcion_8">Cher (1998)</string>
+
+    <string name="dia_9">Día 9</string>
+    <string name="cancion_9">Killing Me Softly</string>
+    <string name="descripcion_9">The Fugees (1997)</string>
+
+    <string name="dia_10">Día 10</string>
+    <string name="cancion_10">Vogue</string>
+    <string name="descripcion_10">Madonna (1990)</string>
+
+    <string name="dia_11">Día 11</string>
+    <string name="cancion_11">Paranoid Android</string>
+    <string name="descripcion_11">Radiohead (1997)</string>
+
+    <string name="dia_12">Día 12</string>
+    <string name="cancion_12">Wannabe</string>
+    <string name="descripcion_12">Spice Girls (1996)</string>
+
+    <string name="dia_13">Día 13</string>
+    <string name="cancion_13">I Will Always Love You</string>
+    <string name="descripcion_13">Whitney (1992)</string>
+
+    <string name="dia_14">Día 14</string>
+    <string name="cancion_14">Say my name</string>
+    <string name="descripcion_14">Destiny´s Child (1999)</string>
+
+    <string name="dia_15">Día 15</string>
+    <string name="cancion_15">My Heart Will Go On</string>
+    <string name="descripcion_15">Celine Dion (1997)</string>
+</resources>
